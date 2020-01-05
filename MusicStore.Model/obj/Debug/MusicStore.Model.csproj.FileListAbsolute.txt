@@ -1,0 +1,23 @@
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.Model\bin\Debug\MusicStore.Model.dll
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.Model\bin\Debug\MusicStore.Model.pdb
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.Model\bin\Debug\MusicStore.Core.dll
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.Model\bin\Debug\EntityFramework.dll
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.Model\bin\Debug\MusicStore.Core.pdb
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.Model\bin\Debug\MusicStore.Core.dll.config
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.Model\bin\Debug\EntityFramework.xml
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.Model\obj\Debug\MusicStore.Model.csprojAssemblyReference.cache
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.Model\obj\Debug\MusicStore.Model.csproj.CopyComplete
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.Model\obj\Debug\MusicStore.Model.dll
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.Model\obj\Debug\MusicStore.Model.pdb
+C:\Users\user\Desktop\MusicStore\MusicStore.Model\bin\Debug\MusicStore.Model.dll
+C:\Users\user\Desktop\MusicStore\MusicStore.Model\bin\Debug\MusicStore.Model.pdb
+C:\Users\user\Desktop\MusicStore\MusicStore.Model\bin\Debug\MusicStore.Core.dll
+C:\Users\user\Desktop\MusicStore\MusicStore.Model\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\MusicStore\MusicStore.Model\bin\Debug\MusicStore.Core.pdb
+C:\Users\user\Desktop\MusicStore\MusicStore.Model\bin\Debug\MusicStore.Core.dll.config
+C:\Users\user\Desktop\MusicStore\MusicStore.Model\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\MusicStore\MusicStore.Model\obj\Debug\MusicStore.Model.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MusicStore\MusicStore.Model\obj\Debug\MusicStore.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MusicStore\MusicStore.Model\obj\Debug\MusicStore.Model.csproj.CopyComplete
+C:\Users\user\Desktop\MusicStore\MusicStore.Model\obj\Debug\MusicStore.Model.dll
+C:\Users\user\Desktop\MusicStore\MusicStore.Model\obj\Debug\MusicStore.Model.pdb
