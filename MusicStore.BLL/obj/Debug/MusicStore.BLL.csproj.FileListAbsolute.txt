@@ -1,0 +1,37 @@
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.BLL.dll
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.BLL.pdb
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.csprojAssemblyReference.cache
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.dll
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.pdb
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.Core.dll
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.DAL.dll
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.Model.dll
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.Core.pdb
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.Core.dll.config
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.DAL.pdb
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.DAL.dll.config
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.Model.pdb
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.csproj.CopyComplete
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\Ninject.dll
+C:\Users\Gizem İşeri\Desktop\Coder\Project\MusicStore\MusicStore.BLL\bin\Debug\Ninject.xml
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.BLL.dll
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.BLL.pdb
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.Core.dll
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.DAL.dll
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.Model.dll
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\Ninject.dll
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.Core.pdb
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.Core.dll.config
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.DAL.pdb
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.DAL.dll.config
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\MusicStore.Model.pdb
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\Ninject.xml
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.csproj.CopyComplete
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.dll
+C:\Users\user\Desktop\MusicStore\MusicStore.BLL\obj\Debug\MusicStore.BLL.pdb
